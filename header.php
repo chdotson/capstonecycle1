@@ -26,7 +26,7 @@ require_once "connect.php";
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CHD Site</title>
+    <title>CHD Site Content</title>
     <link href="styleP.css" media="screen" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tiny.cloud/1/5o7mj88vhvtv3r2c5v5qo4htc088gcb5l913qx5wlrtjn81y/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
     <script>tinymce.init({ selector:'textarea' });</script>
