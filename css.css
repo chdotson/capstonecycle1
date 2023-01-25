@@ -6,8 +6,8 @@ p {
 h1 {
     background-color: #ffeadc;
     font-weight: bold;
-    font-family: "Bookman Old Style";
-    color: #33416b;
+    font-family: "Heletica";
+    color: #000000;
 }
 
 h2 {
@@ -57,4 +57,8 @@ a {
 
 header, footer {
     background-color: #e0e1e8;
+}
+
+header {
+    position: sticky;
 }
